@@ -1,0 +1,10 @@
+{
+        teaser: teaser {
+          id
+          title
+          content
+          heroimage {
+            url
+          }
+        }
+      }

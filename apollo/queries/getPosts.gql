@@ -1,0 +1,10 @@
+{
+        allPosts: allPosts {
+          id
+          title
+          content
+          heroimage {
+            url
+          }
+        }
+      }
